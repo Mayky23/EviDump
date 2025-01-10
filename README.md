@@ -1,4 +1,4 @@
-# Evi Dump
+# 💾🔎 EviDump
 
 Haciendo uso de las herramientas de SysinternalSuite de Microsoft he creado este script en bash que permite confeccionar un USB-STICK donde estén almacenadas las herramientas y el script.
 
@@ -6,9 +6,9 @@ El fichero BATCH se lanzará en la máquina que se pretenda peritar. Este BAT re
 
 ![Pantalla principal de la herramienta](img/foto1.png)
 
-# Como utilizar EviDump
+# Como utilizar EviDump 
 
-Para utilizar este script simplemente debemos hacer click derecho y ejecutarlo con permisos de administrador.
+⚠️ Para utilizar este script simplemente debemos hacer click derecho y ejecutarlo con permisos de administrador.
 
 Si pulsamos dos veces Enter comenzará el proceso 
 
