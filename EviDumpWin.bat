@@ -1,11 +1,13 @@
 @echo off
 
+echo.
 echo 888888 Yb    dP 88 8888b.  88   88 8b    d8 88""Yb Yb        dP 88 88b 88 
 echo 88__    Yb  dP  88  8I  Yb 88   88 88b  d88 88__dP  Yb  db  dP  88 88Yb88 
 echo 88""     YbdP   88  8I  dY Y8   8P 88YbdP88 88"""    YbdPYbdP   88 88 Y88 
 echo 888888    YP    88 8888Y"  `YbodP' 88 YY 88 88        YP  YP    88 88  Y8 
-echo
+echo.
 echo ---- By: MARH -----------------------------------------------------------
+echo.
 pause
 
 :: Preguntar al usuario la ruta donde desea guardar las evidencias
