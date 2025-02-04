@@ -1,4 +1,4 @@
-# 🔎💾 EviDump
+# 🔎💾 EviDumpWin
 
 Haciendo uso de las herramientas de SysinternalSuite de Microsoft he creado este script en bash que permite confeccionar un USB-STICK donde estén almacenadas las herramientas y el script.
 
